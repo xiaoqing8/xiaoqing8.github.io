@@ -4,9 +4,9 @@
   <subtitle>xiaoqing&#39;s blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.xiaoqingDeBlog.com/"/>
+  <link href="http://www.xiaoqingDeBlog.com/blog/"/>
   <updated>2017-05-09T10:58:20.196Z</updated>
-  <id>http://www.xiaoqingDeBlog.com/</id>
+  <id>http://www.xiaoqingDeBlog.com/blog/</id>
   
   <author>
     <name>Xiaoqing</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>myself</title>
-    <link href="http://www.xiaoqingDeBlog.com/2017/05/05/myself/"/>
-    <id>http://www.xiaoqingDeBlog.com/2017/05/05/myself/</id>
+    <link href="http://www.xiaoqingDeBlog.com/blog/2017/05/05/myself/"/>
+    <id>http://www.xiaoqingDeBlog.com/blog/2017/05/05/myself/</id>
     <published>2017-05-05T08:53:11.000Z</published>
     <updated>2017-05-09T10:58:20.196Z</updated>
     
@@ -32,15 +32,15 @@
     
     </summary>
     
-      <category term="life" scheme="http://www.xiaoqingDeBlog.com/categories/life/"/>
+      <category term="life" scheme="http://www.xiaoqingDeBlog.com/blog/categories/life/"/>
     
     
   </entry>
   
   <entry>
     <title>film</title>
-    <link href="http://www.xiaoqingDeBlog.com/2017/05/04/film/"/>
-    <id>http://www.xiaoqingDeBlog.com/2017/05/04/film/</id>
+    <link href="http://www.xiaoqingDeBlog.com/blog/2017/05/04/film/"/>
+    <id>http://www.xiaoqingDeBlog.com/blog/2017/05/04/film/</id>
     <published>2017-05-04T09:49:15.000Z</published>
     <updated>2017-05-09T10:56:53.122Z</updated>
     
@@ -52,15 +52,15 @@
     
     </summary>
     
-      <category term="life" scheme="http://www.xiaoqingDeBlog.com/categories/life/"/>
+      <category term="life" scheme="http://www.xiaoqingDeBlog.com/blog/categories/life/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.xiaoqingDeBlog.com/2017/05/03/hello-world/"/>
-    <id>http://www.xiaoqingDeBlog.com/2017/05/03/hello-world/</id>
+    <link href="http://www.xiaoqingDeBlog.com/blog/2017/05/03/hello-world/"/>
+    <id>http://www.xiaoqingDeBlog.com/blog/2017/05/03/hello-world/</id>
     <published>2017-05-03T07:42:25.733Z</published>
     <updated>2017-05-04T13:43:38.159Z</updated>
     
@@ -81,7 +81,7 @@
     
     </summary>
     
-      <category term="tech" scheme="http://www.xiaoqingDeBlog.com/categories/tech/"/>
+      <category term="tech" scheme="http://www.xiaoqingDeBlog.com/blog/categories/tech/"/>
     
     
   </entry>
