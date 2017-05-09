@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.xiaoqingDeBlog.com/blog/"/>
-  <updated>2017-05-09T10:58:20.196Z</updated>
+  <updated>2017-05-09T19:14:51.703Z</updated>
   <id>http://www.xiaoqingDeBlog.com/blog/</id>
   
   <author>
@@ -16,19 +16,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>myself</title>
+    <title>给你讲讲我的故事 :)</title>
     <link href="http://www.xiaoqingDeBlog.com/blog/2017/05/05/myself/"/>
     <id>http://www.xiaoqingDeBlog.com/blog/2017/05/05/myself/</id>
     <published>2017-05-05T08:53:11.000Z</published>
-    <updated>2017-05-09T10:58:20.196Z</updated>
+    <updated>2017-05-09T19:14:51.703Z</updated>
     
     <content type="html"><![CDATA[<p>Bonjour, pour souvenir, pour sauvegarder mes photos dans un endroit secret! </p>
+<img src="/2017/05/05/myself/haha.jpg" alt="haha.jpg" title="">
+<img src="/2017/05/05/myself/my.jpg" alt="my.jpg" title="">
+<img src="/2017/05/05/myself/myImage.jpg" alt="myImage.jpg" title="">
+<img src="/2017/05/05/myself/myPhoto.jpg" alt="myPhoto.jpg" title="">
 ]]></content>
     
     <summary type="html">
     
       &lt;p&gt;Bonjour, pour souvenir, pour sauvegarder mes photos dans un endroit secret! &lt;/p&gt;
-
+&lt;img src=&quot;/2017/05/05/myself/haha.jpg&quot; alt=&quot;haha.jpg&quot; ti
     
     </summary>
     
@@ -42,13 +46,14 @@
     <link href="http://www.xiaoqingDeBlog.com/blog/2017/05/04/film/"/>
     <id>http://www.xiaoqingDeBlog.com/blog/2017/05/04/film/</id>
     <published>2017-05-04T09:49:15.000Z</published>
-    <updated>2017-05-09T10:56:53.122Z</updated>
+    <updated>2017-05-09T19:13:52.078Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Hello"><a href="#Hello" class="headerlink" title="Hello,"></a>Hello,</h3>]]></content>
+    <content type="html"><![CDATA[<h3 id="Hello-这是我的第一篇文章"><a href="#Hello-这是我的第一篇文章" class="headerlink" title="Hello, 这是我的第一篇文章 :)"></a>Hello, 这是我的第一篇文章 :)</h3><p>作为一位爱看古装剧的女孩儿，特别想给你们推荐 <a href="https://www.youtube.com/results?search_query=%E6%A5%9A%E6%B1%89%E4%BC%A0%E5%A5%87" target="_blank" rel="external">楚汉传奇</a> 啊! 很好看的，但是<br>人物刻画可能不太正确，这个剧中的吕后跟 <a href="https://www.youtube.com/results?search_query=%E7%BE%8E%E4%BA%BA%E5%BF%83%E8%AE%A1" target="_blank" rel="external">美人心计</a> 中的一点都不一样!</p>
+]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;Hello&quot;&gt;&lt;a href=&quot;#Hello&quot; class=&quot;headerlink&quot; title=&quot;Hello,&quot;&gt;&lt;/a&gt;Hello,&lt;/h3&gt;
+      &lt;h3 id=&quot;Hello-这是我的第一篇文章&quot;&gt;&lt;a href=&quot;#Hello-这是我的第一篇文章&quot; class=&quot;headerlink&quot; title=&quot;Hello, 这是我的第一篇文章 :)&quot;&gt;&lt;/a&gt;Hello, 这是我的第一篇文章 :)&lt;/h3&gt;&lt;p&gt;作为一位爱看古装剧的
     
     </summary>
     
