@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Xiaoqing 的 blog</title>
   <subtitle>xiaoqing&#39;s blog</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://www.xiaoqingDeBlog.com/blog/"/>
-  <updated>2017-05-09T19:14:51.703Z</updated>
-  <id>http://www.xiaoqingDeBlog.com/blog/</id>
+  <link href="http://www.xiaoqingDeBlog.com/"/>
+  <updated>2017-05-11T09:41:19.097Z</updated>
+  <id>http://www.xiaoqingDeBlog.com/</id>
   
   <author>
     <name>Xiaoqing</name>
@@ -16,9 +16,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>零零碎碎的小知识</title>
+    <link href="http://www.xiaoqingDeBlog.com/2017/05/11/petite-chose/"/>
+    <id>http://www.xiaoqingDeBlog.com/2017/05/11/petite-chose/</id>
+    <published>2017-05-11T09:33:50.000Z</published>
+    <updated>2017-05-11T09:41:19.097Z</updated>
+    
+    <content type="html"><![CDATA[<p>##[1]<br>超链接a的target属性，注意target=”_blan###k”，而不是target=”_blan###c”。<br>另外，target=”_new”和target=”view_window”是一样的效果。都是同一页面中的连接都指向同一个其他的页面。<br>target=”_blank”是每次都打开一个新的页面。 </p>
+<p>详见 <a href="http://www.cnblogs.com/starof/p/4014691.html" target="_blank" rel="external">超链接a的target属性</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;##[1]&lt;br&gt;超链接a的target属性，注意target=”_blan###k”，而不是target=”_blan###c”。&lt;br&gt;另外，target=”_new”和target=”view_window”是一样的效果。都是同一页面中的连接都指向同一个其他的页面。&lt;
+    
+    </summary>
+    
+      <category term="tech" scheme="http://www.xiaoqingDeBlog.com/categories/tech/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>给你讲讲我的故事 :)</title>
-    <link href="http://www.xiaoqingDeBlog.com/blog/2017/05/05/myself/"/>
-    <id>http://www.xiaoqingDeBlog.com/blog/2017/05/05/myself/</id>
+    <link href="http://www.xiaoqingDeBlog.com/2017/05/05/myself/"/>
+    <id>http://www.xiaoqingDeBlog.com/2017/05/05/myself/</id>
     <published>2017-05-05T08:53:11.000Z</published>
     <updated>2017-05-09T19:14:51.703Z</updated>
     
@@ -36,15 +58,15 @@
     
     </summary>
     
-      <category term="life" scheme="http://www.xiaoqingDeBlog.com/blog/categories/life/"/>
+      <category term="life" scheme="http://www.xiaoqingDeBlog.com/categories/life/"/>
     
     
   </entry>
   
   <entry>
     <title>film</title>
-    <link href="http://www.xiaoqingDeBlog.com/blog/2017/05/04/film/"/>
-    <id>http://www.xiaoqingDeBlog.com/blog/2017/05/04/film/</id>
+    <link href="http://www.xiaoqingDeBlog.com/2017/05/04/film/"/>
+    <id>http://www.xiaoqingDeBlog.com/2017/05/04/film/</id>
     <published>2017-05-04T09:49:15.000Z</published>
     <updated>2017-05-09T19:13:52.078Z</updated>
     
@@ -57,15 +79,15 @@
     
     </summary>
     
-      <category term="life" scheme="http://www.xiaoqingDeBlog.com/blog/categories/life/"/>
+      <category term="life" scheme="http://www.xiaoqingDeBlog.com/categories/life/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.xiaoqingDeBlog.com/blog/2017/05/03/hello-world/"/>
-    <id>http://www.xiaoqingDeBlog.com/blog/2017/05/03/hello-world/</id>
+    <link href="http://www.xiaoqingDeBlog.com/2017/05/03/hello-world/"/>
+    <id>http://www.xiaoqingDeBlog.com/2017/05/03/hello-world/</id>
     <published>2017-05-03T07:42:25.733Z</published>
     <updated>2017-05-04T13:43:38.159Z</updated>
     
@@ -86,7 +108,7 @@
     
     </summary>
     
-      <category term="tech" scheme="http://www.xiaoqingDeBlog.com/blog/categories/tech/"/>
+      <category term="tech" scheme="http://www.xiaoqingDeBlog.com/categories/tech/"/>
     
     
   </entry>
