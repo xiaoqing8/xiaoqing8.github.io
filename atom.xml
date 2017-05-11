@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Xiaoqing 的 blog</title>
   <subtitle>xiaoqing&#39;s blog</subtitle>
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.xiaoqingDeBlog.com/blog/"/>
-  <updated>2017-05-11T09:41:19.097Z</updated>
+  <updated>2017-05-11T10:01:02.023Z</updated>
   <id>http://www.xiaoqingDeBlog.com/blog/</id>
   
   <author>
@@ -19,16 +19,16 @@
     <title>零零碎碎的小知识</title>
     <link href="http://www.xiaoqingDeBlog.com/blog/2017/05/11/petite-chose/"/>
     <id>http://www.xiaoqingDeBlog.com/blog/2017/05/11/petite-chose/</id>
-    <published>2017-05-11T09:33:50.000Z</published>
-    <updated>2017-05-11T09:41:19.097Z</updated>
+    <published>2017-05-11T09:33:50.682Z</published>
+    <updated>2017-05-11T10:01:02.023Z</updated>
     
-    <content type="html"><![CDATA[<p>##[1]<br>超链接a的target属性，注意target=”_blan###k”，而不是target=”_blan###c”。<br>另外，target=”_new”和target=”view_window”是一样的效果。都是同一页面中的连接都指向同一个其他的页面。<br>target=”_blank”是每次都打开一个新的页面。 </p>
+    <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="[1]"></a>[1]</h2><p>超链接a的target属性，注意target=”_blan<strong>K</strong>“，而不是target=”_blan<strong>C</strong>“。<br>另外，target=”_new”和target=”view_window”是一样的效果。都是同一页面中的连接都指向同一个其他的页面。<br>target=”_blank”是每次都打开一个新的页面。 </p>
 <p>详见 <a href="http://www.cnblogs.com/starof/p/4014691.html" target="_blank" rel="external">超链接a的target属性</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;##[1]&lt;br&gt;超链接a的target属性，注意target=”_blan###k”，而不是target=”_blan###c”。&lt;br&gt;另外，target=”_new”和target=”view_window”是一样的效果。都是同一页面中的连接都指向同一个其他的页面。&lt;
+      &lt;h2 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;[1]&quot;&gt;&lt;/a&gt;[1]&lt;/h2&gt;&lt;p&gt;超链接a的target属性，注意target=”_blan&lt;strong&gt;K&lt;/strong&gt;“，而不是target=”_blan&lt;stro
     
     </summary>
     
@@ -41,8 +41,8 @@
     <title>给你讲讲我的故事 :)</title>
     <link href="http://www.xiaoqingDeBlog.com/blog/2017/05/05/myself/"/>
     <id>http://www.xiaoqingDeBlog.com/blog/2017/05/05/myself/</id>
-    <published>2017-05-05T08:53:11.000Z</published>
-    <updated>2017-05-09T19:14:51.703Z</updated>
+    <published>2017-05-05T08:53:11.365Z</published>
+    <updated>2017-05-11T09:56:57.799Z</updated>
     
     <content type="html"><![CDATA[<p>Bonjour, pour souvenir, pour sauvegarder mes photos dans un endroit secret! </p>
 <img src="/2017/05/05/myself/haha.jpg" alt="haha.jpg" title="">
