@@ -4,9 +4,9 @@
   <subtitle>xiaoqing&#39;s blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.xiaoqingDeBlog.com/blog/"/>
-  <updated>2017-05-11T10:04:53.112Z</updated>
-  <id>http://www.xiaoqingDeBlog.com/blog/</id>
+  <link href="https://www.xiaoqingDeBlog.com/"/>
+  <updated>2017-05-11T10:16:36.956Z</updated>
+  <id>https://www.xiaoqingDeBlog.com/</id>
   
   <author>
     <name>Xiaoqing</name>
@@ -17,13 +17,15 @@
   
   <entry>
     <title>零零碎碎的小知识</title>
-    <link href="http://www.xiaoqingDeBlog.com/blog/2017/05/11/petite-chose/"/>
-    <id>http://www.xiaoqingDeBlog.com/blog/2017/05/11/petite-chose/</id>
+    <link href="https://www.xiaoqingDeBlog.com/2017/05/11/petite-chose/"/>
+    <id>https://www.xiaoqingDeBlog.com/2017/05/11/petite-chose/</id>
     <published>2017-05-11T09:33:50.682Z</published>
-    <updated>2017-05-11T10:04:53.112Z</updated>
+    <updated>2017-05-11T10:16:36.956Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="[1]"></a>[1]</h2><p>超链接a的target属性，注意target=”_blan<strong>K</strong>“，而不是target=”_blan<strong>C</strong>“。<br>另外，target=”_new”和target=”view_window”是一样的效果。都是同一页面中的连接都指向同一个其他的页面。<br>target=”_blank”是每次都打开一个新的页面。 </p>
 <p>详见 <a href="http://www.cnblogs.com/starof/p/4014691.html" target="_blank" rel="external">超链接a的target属性</a></p>
+<h2 id="2"><a href="#2" class="headerlink" title="[2]"></a>[2]</h2><p><a href="https://git-scm.com/docs/git-checkout" target="_blank" rel="external">git checkout</a> 真的是一个神器啊，我以前以为一个文件只能回到上一次commit之后的状态，原来是可以回到以前的任意一个状态啊 !</p>
+<p><a href="http://www.cnblogs.com/hutaoer/archive/2013/05/07/git_checkout.html" target="_blank" rel="external">中文的切糕</a>更容易懂哦!!</p>
 ]]></content>
     
     <summary type="html">
@@ -32,15 +34,15 @@
     
     </summary>
     
-      <category term="tech" scheme="http://www.xiaoqingDeBlog.com/blog/categories/tech/"/>
+      <category term="tech" scheme="https://www.xiaoqingDeBlog.com/categories/tech/"/>
     
     
   </entry>
   
   <entry>
     <title>给你讲讲我的故事 :)</title>
-    <link href="http://www.xiaoqingDeBlog.com/blog/2017/05/05/myself/"/>
-    <id>http://www.xiaoqingDeBlog.com/blog/2017/05/05/myself/</id>
+    <link href="https://www.xiaoqingDeBlog.com/2017/05/05/myself/"/>
+    <id>https://www.xiaoqingDeBlog.com/2017/05/05/myself/</id>
     <published>2017-05-05T08:53:11.365Z</published>
     <updated>2017-05-11T09:56:57.799Z</updated>
     
@@ -58,15 +60,15 @@
     
     </summary>
     
-      <category term="life" scheme="http://www.xiaoqingDeBlog.com/blog/categories/life/"/>
+      <category term="life" scheme="https://www.xiaoqingDeBlog.com/categories/life/"/>
     
     
   </entry>
   
   <entry>
     <title>film</title>
-    <link href="http://www.xiaoqingDeBlog.com/blog/2017/05/04/film/"/>
-    <id>http://www.xiaoqingDeBlog.com/blog/2017/05/04/film/</id>
+    <link href="https://www.xiaoqingDeBlog.com/2017/05/04/film/"/>
+    <id>https://www.xiaoqingDeBlog.com/2017/05/04/film/</id>
     <published>2017-05-04T09:49:15.000Z</published>
     <updated>2017-05-09T19:13:52.078Z</updated>
     
@@ -79,15 +81,15 @@
     
     </summary>
     
-      <category term="life" scheme="http://www.xiaoqingDeBlog.com/blog/categories/life/"/>
+      <category term="life" scheme="https://www.xiaoqingDeBlog.com/categories/life/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.xiaoqingDeBlog.com/blog/2017/05/03/hello-world/"/>
-    <id>http://www.xiaoqingDeBlog.com/blog/2017/05/03/hello-world/</id>
+    <link href="https://www.xiaoqingDeBlog.com/2017/05/03/hello-world/"/>
+    <id>https://www.xiaoqingDeBlog.com/2017/05/03/hello-world/</id>
     <published>2017-05-03T07:42:25.733Z</published>
     <updated>2017-05-04T13:43:38.159Z</updated>
     
@@ -108,7 +110,7 @@
     
     </summary>
     
-      <category term="tech" scheme="http://www.xiaoqingDeBlog.com/blog/categories/tech/"/>
+      <category term="tech" scheme="https://www.xiaoqingDeBlog.com/categories/tech/"/>
     
     
   </entry>
